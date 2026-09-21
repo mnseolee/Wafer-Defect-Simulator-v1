@@ -20,7 +20,7 @@ A synthetic simulation of a circular semiconductor wafer with individually model
    ```
 2. Run the script:
    ```
-   python wafer_simulator.py
+   WaferSimulator_v1.py
    ```
 
 ## Example output
